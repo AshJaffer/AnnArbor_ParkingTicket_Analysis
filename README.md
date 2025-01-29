@@ -97,5 +97,6 @@ jupyter notebook parking_analysis.ipynb
 
 ## Contact Information
 Ashhad Jaffer
--Ajaffer@umich.edu
--https://www.linkedin.com/in/ash0707/
+- Master's in Data Science at the University of Michigan School of Information
+- Ajaffer@umich.edu
+- https://www.linkedin.com/in/ash0707/
