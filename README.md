@@ -96,3 +96,6 @@ jupyter notebook parking_analysis.ipynb
 - Generated comprehensive statistics on violation types by time of day
 
 ## Contact Information
+Ashhad Jaffer
+-Ajaffer@umich.edu
+-https://www.linkedin.com/in/ash0707/
